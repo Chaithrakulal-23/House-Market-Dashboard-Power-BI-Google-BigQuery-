@@ -189,7 +189,7 @@ Offer to SQM Ratio = DIVIDE(SUM(Housing[Offer Price]), SUM(Housing[sqm]))
 - **Scatter Plot** — Offer Price vs. Purchase Price
 - **Line Chart** — Year on Year Sales Growth by Sales Type
 
-![House Market Overview](https://user-images.githubusercontent.com/102996550/page1p.png)
+![House Market Overview](https://github.com/Chaithrakulal-23/House-Market-Dashboard-Power-BI-Google-BigQuery-/blob/b7eb8e4a08ae36fd76199f926efd57497b5e089f/housemarketd.png)
 
 ---
 
