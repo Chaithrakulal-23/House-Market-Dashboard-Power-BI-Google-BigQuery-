@@ -228,7 +228,7 @@ The three report pages were published to Power BI Service for sharing and collab
 ![House Market Overview Dashboard](https://github.com/Chaithrakulal-23/House-Market-Dashboard-Power-BI-Google-BigQuery-/blob/ca122173c461f7e1a548706b62299d1ef005f01d/page1p.png)
 
 ### Sales Performance
-![Sales Performance Dashboard](https://user-images.githubusercontent.com/102996550/salesperformanced.png)
+![Sales Performance Dashboard](https://github.com/Chaithrakulal-23/House-Market-Dashboard-Power-BI-Google-BigQuery-/blob/9bb88326100b62f1030fde796b2e657db04d422b/page2p.png)
 
 ### House Type Analysis
 ![House Type Analysis Dashboard](https://user-images.githubusercontent.com/102996550/housetypeanalysisd.png)
