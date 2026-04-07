@@ -88,7 +88,7 @@ SELECT DISTINCT sqm FROM `alert-district-461908-q5.1.Test` WHERE no_rooms = 3;
 
 - Applied three **Replaced Value** steps visible in the Applied Steps panel.
 
-![Power Query Column Profile](https://user-images.githubusercontent.com/102996550/columnprofile.png)
+![Power Query Column Profile](https://github.com/Chaithrakulal-23/House-Market-Dashboard-Power-BI-Google-BigQuery-/blob/888ff07523418cadc47b7e2ad2c1f690eb58f88d/columnprofile.png)
 
 ---
 
