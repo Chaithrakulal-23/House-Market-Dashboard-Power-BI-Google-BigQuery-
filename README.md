@@ -201,7 +201,7 @@ Offer to SQM Ratio = DIVIDE(SUM(Housing[Offer Price]), SUM(Housing[sqm]))
 - **Stacked Bar Chart** — Offer to SQM Ratio by Sales Type
 - **Donut Chart** — Average Price SQM by region (Zealand: 35%, Fyn & islands: 23.25%, Bornholm: 18.1%)
 
-![Sales Performance](https://user-images.githubusercontent.com/102996550/page2p.png)
+![Sales Performance](https://github.com/Chaithrakulal-23/House-Market-Dashboard-Power-BI-Google-BigQuery-/blob/40c43e97b66eae814eb111a297a1361981f9aba1/salesperformanced.png)
 
 ---
 
