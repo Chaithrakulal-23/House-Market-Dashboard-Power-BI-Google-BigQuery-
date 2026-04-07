@@ -212,7 +212,7 @@ Offer to SQM Ratio = DIVIDE(SUM(Housing[Offer Price]), SUM(Housing[sqm]))
 - **Line and Stacked Column Chart** — Average SQM / SQM Price by House Type
 - **Slicers** — Area, City, Sales Type, Region
 
-![House Type Analysis](https://user-images.githubusercontent.com/102996550/page3p.png)
+![House Type Analysis](https://github.com/Chaithrakulal-23/House-Market-Dashboard-Power-BI-Google-BigQuery-/blob/3f65cadec4e0e13bcda38695328e79a23e65f748/housetypeanalysisd.png)
 
 ---
 
