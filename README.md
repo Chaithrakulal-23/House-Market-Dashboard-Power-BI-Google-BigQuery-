@@ -71,7 +71,7 @@ SELECT DISTINCT sqm FROM `alert-district-461908-q5.1.Test` WHERE no_rooms = 3;
 - Navigated to project `alert-district-461908-q5 → Dataset 1 → Housing` table.
 - Selected the **Housing** table (100K rows) and clicked **Transform Data** to open Power Query Editor.
 
-![BigQuery Navigator in Power BI](https://user-images.githubusercontent.com/102996550/loadbigquerrydstopw_.png)
+![BigQuery Navigator in Power BI](https://github.com/Chaithrakulal-23/House-Market-Dashboard-Power-BI-Google-BigQuery-/blob/9137b8fe168668c2447bb0c38328bdf3f9b51712/loadbigquerrydstopw%20.png)
 
 ---
 
