@@ -61,7 +61,7 @@ SET sqm = 100 WHERE no_rooms = 3;
 SELECT DISTINCT sqm FROM `alert-district-461908-q5.1.Test` WHERE no_rooms = 3;
 ```
 
-![SQL Queries in BigQuery](https://user-images.githubusercontent.com/102996550/testquery.png)
+![SQL Queries in BigQuery](https://github.com/Chaithrakulal-23/House-Market-Dashboard-Power-BI-Google-BigQuery-/blob/f512a5eeb2f39daf80a8ed627f661df3e6eb9594/runquery.png)
 
 ---
 
