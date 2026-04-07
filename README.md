@@ -33,8 +33,8 @@ Since auctions show the highest YOY growth (+0.29) while family sales show the s
 - Created a **Dataset** (`1`) and two **Tables** (`Housing`, `Test`) inside the project `alert-district-461908-q5`.
 - Uploaded `Housing Data.csv` via the **Create Table** dialog (Source: Upload, Format: CSV, Schema: Auto-detect).
 
-![Create Table - BigQuery](https://user-images.githubusercontent.com/102996550/create_table.png)
-![Create Table - BigQuery](https://user-images.githubusercontent.com/102996550/create_table.png)
+![Create Table - BigQuery](https://github.com/Chaithrakulal-23/House-Market-Dashboard-Power-BI-Google-BigQuery-/blob/c9038c2063856f2797460260fe229bb7aae2d0d4/create%20table2.png)
+
 
 - Used the **Test** table as a sandbox copy of Housing for SQL exploration.
 
