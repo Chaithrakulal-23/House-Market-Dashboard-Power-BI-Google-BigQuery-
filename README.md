@@ -34,6 +34,7 @@ Since auctions show the highest YOY growth (+0.29) while family sales show the s
 - Uploaded `Housing Data.csv` via the **Create Table** dialog (Source: Upload, Format: CSV, Schema: Auto-detect).
 
 ![Create Table - BigQuery](https://user-images.githubusercontent.com/102996550/create_table.png)
+![Create Table - BigQuery](https://user-images.githubusercontent.com/102996550/create_table.png)
 
 - Used the **Test** table as a sandbox copy of Housing for SQL exploration.
 
